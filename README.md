@@ -2,9 +2,9 @@
 
 <div>
   <a href="https://github.com/Leandroooh">
-  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandroooh&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandroooh&layout=compact&langs_count=5&theme=bear"/> 
-</div>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=Leandroooh&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandroooh&layout=compact&langs_count=5&theme=bear"/> 
+</div
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Lee-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
