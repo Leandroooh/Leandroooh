@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/Leandroooh">
-  <img width="500" height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandroooh&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandroooh&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandroooh&layout=compact&langs_count=5&theme=bear"/> 
 </div>
   
